@@ -326,7 +326,11 @@ function Navbar() {
               </UserHolder>
             </Link>
           )}
-
+          <Button>
+            <a target="_blank" href="https://benyx-shop.herokuapp.com/login">
+              ADMIN LOGIN
+            </a>
+          </Button>
           <Button onClick={logOut}>Log Out</Button>
         </ColSix>
 
