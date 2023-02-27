@@ -327,7 +327,10 @@ function Navbar() {
             </Link>
           )}
           <Button>
-            <a target="_blank" href="https://benyx-shop.herokuapp.com/login">
+            <a
+              target="_blank"
+              href="https://watch-shop-benyx-admin.netlify.app/"
+            >
               ADMIN LOGIN
             </a>
           </Button>
