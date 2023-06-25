@@ -1,6 +1,6 @@
-# Getting Started with Create React App and Redux
+# Getting Started with my Benyx Watch shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+I created this project using the redux toolkit and create react app. Its online web shop for watches using rest API and authentication
 
 ## Available Scripts
 
